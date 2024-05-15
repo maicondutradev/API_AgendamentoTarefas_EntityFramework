@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sistema_Agendamento_EntityFramework")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7d8b34cea595fc93dec7dceaecf1296a86e7f5e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0bd85c5cc685e1ce08139fac51d75e2ae63de960")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sistema_Agendamento_EntityFramework")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sistema_Agendamento_EntityFramework")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

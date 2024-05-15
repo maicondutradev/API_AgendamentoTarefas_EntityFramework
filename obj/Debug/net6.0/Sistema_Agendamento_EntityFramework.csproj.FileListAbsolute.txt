@@ -63,3 +63,4 @@ C:\Users\maico\Documents\Sistema_Agendamento_EntityFramework\obj\Debug\net6.0\re
 C:\Users\maico\Documents\Sistema_Agendamento_EntityFramework\obj\Debug\net6.0\Sistema_Agendamento_EntityFramework.pdb
 C:\Users\maico\Documents\Sistema_Agendamento_EntityFramework\obj\Debug\net6.0\Sistema_Agendamento_EntityFramework.genruntimeconfig.cache
 C:\Users\maico\Documents\Sistema_Agendamento_EntityFramework\obj\Debug\net6.0\ref\Sistema_Agendamento_EntityFramework.dll
+C:\Users\maico\Documents\Sistema_Agendamento_EntityFramework\obj\Debug\net6.0\Sistema_Agendamento_EntityFramework.sourcelink.json
