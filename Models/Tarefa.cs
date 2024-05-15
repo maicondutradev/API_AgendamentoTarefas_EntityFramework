@@ -13,4 +13,5 @@ namespace Sistema_Agendamento_EntityFramework.Models
         public DateTime Data { get; set; }
         public EnumStatusTarefa Status { get; set; }
     }
+    
 }

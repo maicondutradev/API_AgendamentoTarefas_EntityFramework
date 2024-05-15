@@ -31,5 +31,6 @@ namespace Sistema_Agendamento_EntityFramework.Migrations
             migrationBuilder.DropTable(
                 name: "Tarefas");
         }
+        
     }
 }

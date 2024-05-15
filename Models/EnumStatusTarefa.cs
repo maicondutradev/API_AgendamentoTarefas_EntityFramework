@@ -5,4 +5,5 @@ namespace Sistema_Agendamento_EntityFramework.Models
         Pendente,
         Finalizado
     }
+    
 }

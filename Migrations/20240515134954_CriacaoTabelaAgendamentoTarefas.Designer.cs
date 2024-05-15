@@ -53,4 +53,5 @@ namespace Sistema_Agendamento_EntityFramework.Migrations
 #pragma warning restore 612, 618
         }
     }
+    
 }

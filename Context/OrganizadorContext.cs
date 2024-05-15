@@ -12,4 +12,5 @@ namespace Sistema_Agendamento_EntityFramework.Context
 
         public DbSet<Tarefa> Tarefas { get; set; }
     }
+    
 }
