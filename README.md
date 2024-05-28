@@ -11,7 +11,7 @@ Neste projeto, criei uma API que realiza operações CRUD (Create, Read, Update,
 
 - **ASP.NET Core:** Framework utilizado para desenvolver a API.
 - **SQL Server:** Banco de dados utilizado para armazenar os dados das tarefas.
-- **Entity Framework Core:** ORM (Object-Relational Mapping) utilizado para facilitar a interação com o banco de dados.
+- **Entity Framework Core:** ORM ( Object-Relational Mapping ) utilizado para facilitar a interação com o banco de dados.
 - **Swagger:** Ferramenta utilizada para documentação e testes da API.
 
 ## Funcionalidades
