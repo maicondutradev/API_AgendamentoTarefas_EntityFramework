@@ -3,7 +3,7 @@
 Neste projeto, criei uma API que realiza operações CRUD (Create, Read, Update, Delete) para agendamento de tarefas, conectada a um banco de dados SQL Server. A API permite:
 
 - **Cadastrar Tarefas:** Adicionar novas tarefas ao banco de dados.
-- **Atualizar Tarefas:** Editar as informações de tarefas já existentes.
+- **Atualizar Tarefas:** Editar as tarefas já existentes.
 - **Excluir Tarefas:** Remover tarefas do banco de dados.
 - **Visualizar Tarefas:** Listar todas as tarefas cadastradas.
 
